@@ -7,3 +7,5 @@ H
 contracts/dream-nft.clar,a/f/af98d98a93f7437de7e0e3b97a8e93fa20e1da92
 S
 #contracts/dream-analysis-token.clar,2/1/21a7638341ceaf838d3f22009500688be13944d6
+R
+"tests/dream-analysis-token.test.ts,e/b/eb39913e5fe1348655e1c0617d432a632fb065ed
